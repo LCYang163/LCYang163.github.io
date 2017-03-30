@@ -2,5 +2,3 @@
 layout: home
 published: true
 ---
-
-
